@@ -25,8 +25,8 @@ Includes a responsive **masonry grid layout** and a voice-to-text feature for ha
 ## 🛠 **How to Run Locally**
 1. Clone this repository:
    ```bash
-   git clone https://github.com/your-username/sticky-notes-app.git
-   cd sticky-notes-app
+   git clone https://github.com/your-username/React-Sticky-Notes-App.git
+   cd React-Sticky-Notes-App
 
 Install dependencies:
 
